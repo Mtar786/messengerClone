@@ -1,0 +1,28 @@
+# Ignore node_modules and build artefacts
+node_modules/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore environment files
+.env
+server/.env
+client/.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore client and server build outputs
+client/node_modules/
+client/build/
+client/dist/
+
+server/node_modules/
+server/dist/
+
+# Ignore other temporary files
+coverage/
+tmp/
+temp/
