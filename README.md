@@ -1,5 +1,6 @@
 # Messenger Clone (MERN + Socket.io)
 
+
 This project is a simple clone of a chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io for real‑time messaging.  It demonstrates how to set up a modern full‑stack application with authentication, persistent data storage and WebSocket‑based chat.
 
 ## Features
